@@ -1,1 +1,1 @@
-welcome to the stash
+stash is the one of the command
